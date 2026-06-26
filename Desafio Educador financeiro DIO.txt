@@ -1,0 +1,20 @@
+
+Atue como um especialista em educação financeira digital.
+
+Crie a proposta de um Educador Financeiro Inteligente para Trabalhadores CLT.
+
+O sistema deve ajudar o usuário a guardar um valor todo mês.
+
+As principais funcionalidades devem incluir:
+
+1. controle simples de gastos mensais
+2. simulação de metas de economia
+3. dicas de acordo com o perfil do usuário
+
+A comunicação deve ser cordial e objetiva.
+
+As respostas devem seguir o formato planilhas e lista.
+
+Evite respostas complexas e longas.
+
+Ao final, apresente sugestões criativas para transformar essa ideia em um projeto frontend interativo.
